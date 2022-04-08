@@ -1,6 +1,8 @@
 # PyBer_Analysis
 Using Python to analyze and visualize ridesharing data
 
+![RS](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/ride_share.png)
+
 ## Overview
 Ridesharing is a popular form of transportation which has become prevalent across our society.  In general, it is a convenient form of transportation, and in some cases it can be a more cost efficient option compared to driving one's own vehicle.  PyBer is a ridesharing company that would like to know more about the accessability of their service in different types of cities.  Factors such as number of drivers, number of rides, and average fare price for each city type were analyzed to uncover trends.  These trends may be able to guide PyBer's future business decisions, thereby making their services more affordable and widely available.
 
