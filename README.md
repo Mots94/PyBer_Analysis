@@ -9,4 +9,5 @@ Upon initial inspection of the ridesharing data, three distinct city types could
 ![Fig1](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/Fig1.png)
 
 To determine the strength of the relationship between average fairs per city and ride count per city, a pairwise correlation was run on two series containing data for each city.  There was a relatively strong negative correlation between these two variables of r = -0.58.  Additionally, this analysis was completed on average fairs per city and driver count per city.  The correlation between these variables was also fairly strong at r = -0.54.  The code used to collect these values can be seen below.
-![RFC](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/rides_fare_corr.PNG) ![DFC](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/driver_fare_corr.PNG)
+![RFC](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/rides_fare_corr.PNG) 
+![DFC](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/driver_fare_corr.PNG)
