@@ -24,7 +24,7 @@ Similar to the analysis above, statistics for total rides, total drivers, and to
 ---
 Finally, weekly fairs for each city type between the months of January and April were plotted on a line chart to visualize this data over time. 
 
-![TFL](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/Fig_8.png)
+![TFL](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
 This graph confirms that total fares for rural cities are lower than suburban or urban cities over time.  Overall, this weekly data is fairly centered around the medians.  The medians for weekly data are $191.85 for rural citites, $1045.06 for suburban citites, and $2218.20 for urban cities.  The upper and lower bounds for rural, suburban, and urban cities can be seen below.
 
