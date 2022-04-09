@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Using Python to analyze and visualize ridesharing data
+Using Python and Mathplotlib to analyze and visualize ridesharing data
 
 ![RS](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/ride_share.png)
 
