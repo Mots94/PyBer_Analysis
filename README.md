@@ -17,6 +17,15 @@ To determine the strength of the relationship between average fairs per city and
 ![DFC](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/driver_fare_corr.PNG)
 
 ---
-Similar to the analysis above, statistics for total rides, total drivers, and total fares were calculated for each city type.  In addition, these numbers were used to calculate the average fare per ride and average fair per driver within each city type grouping.  Rural cities have less total rides and drivers than suburban and urban cities.  Urban cities have the most total rides and drivers.  Suburban cities fall between rural and urban cities for these numbers.  Overall, the total fares for rural cities is $15.028.40 less than suburban cities and $35,526,45 less than urban cities.  However, due to the low total rides in rural cities, the average fair per ride is $34.62.  This is just over $10 more on average than urban cities, and about $4.50 more on average than suburban cities.  There is an even larger disparity when looking at the numbers for average fare per driver.  In rural cities, the average fair per driver is $55.49.  This is nearly $40 more on average than urban cities.
+Similar to the analysis above, statistics for total rides, total drivers, and total fares were calculated for each city type.  In addition, these numbers were used to calculate the average fare per ride and average fair per driver within each city type grouping.  Rural cities have less total rides and drivers than suburban and urban cities.  Urban cities have the most total rides and drivers.  Suburban cities fall between rural and urban cities for these categories.  Overall, the total fares for rural cities is $15.028.40 less than suburban cities and $35,526.45 less than urban cities.  However, due to the low total rides in rural cities, the average fair per ride is $34.62.  This is just over $10 more on average than urban cities, and about $4.50 more on average than suburban cities.  There is an even larger disparity when looking at the numbers for average fare per driver.  In rural cities, the average fair per driver is $55.49.  This is nearly $40 more on average than urban cities and $16 more than suburban cities.
 
 ![FS](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/Fare_Summary.PNG)
+
+---
+Finally, weekly fairs for each city type between the months of January and April were plotted on a line chart to visualize this data over time. 
+
+![TFL](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/Fig_8.png)
+
+This graph confirms that total fares for rural cities are lower than suburban or urban cities over time.  Overall, this weekly data is fairly centered around the medians.  The medians for weekly data are $191.85 for rural citites, $1045.06 for suburban citites, and $2218.20 for urban cities.  The upper and lower bounds for rural, suburban, and urban cities can be seen below.
+
+![LB](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/lower_bound.PNG) ![UB](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/upper_bound.PNG)
