@@ -26,6 +26,17 @@ Finally, weekly fairs for each city type between the months of January and April
 
 ![TFL](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/Fig8.png)
 
-This graph confirms that total fares for rural cities are lower than suburban or urban cities over time.  Overall, this weekly data is fairly centered around the medians.  The medians for weekly data are $191.85 for rural citites, $1045.06 for suburban citites, and $2218.20 for urban cities.  The upper and lower bounds for rural, suburban, and urban cities can be seen below.
+This graph confirms that total fares for rural cities are lower than suburban or urban cities over time.  Overall, this weekly data is fairly centered around the medians.  The medians are $191.85 for rural cities, $1045.06 for suburban citites, and $2218.20 for urban cities.  The upper and lower bounds for rural, suburban, and urban cities can be seen below.
 
 ![LB](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/lower_bound.PNG) ![UB](https://github.com/Mots94/PyBer_Analysis/blob/main/analysis/upper_bound.PNG)
+
+There is only one week for rural cities that the total fares falls outside of the upper bound, that being the week of April 7, 2019.  Based on the correlations found between fairs and number of drivers/rides, fairs should stay consistent if the number of drivers/rides for city types does not change.  
+
+## Summary
+My first recommendation would be to offer incentives to current drivers in urban or suburban cities to drive in rural cities near them to increase availability of drivers in those cities.  A higher supply of drivers in rural cities would ideally decrease the cost of fair for the consumer.  Although there would be a cost to the company for offering employee incentives, if the number of total drivers in rural cities increases there may be an increase in number of customers as well.
+
+---
+It would also be wise to thoroughly research the market interest in ride sharing for each city type.  Rural city landscapes are much different from urban cities.  What I mean by that is that rural cities are often more spread out geographically than urban or even suburban cities.  It may be more cost effective for individuals in rural cities to drive their own car if they must travel long distances to get to a destination.  On the other hand, parking a car in urban citites and paying for fuel can be expensive.  It may be more cost effective to utilize ride sharing in urban cities to travel moderate distances.  Although this does not directly address disparitites across city types, it could give insight into how certain communities travel and why ridesharing may or may not be a popular option for travel.
+
+---
+With that said, even if it is found that ride sharing is not popular in rural cities perhaps PyBer could restructure their pricing for rides around in demand ride times.  For example, in any city weekends are often when most people are enjoying free time by going out to eat, seeing a movie, or traveling to see friends.  When drivers are less available on weekends due to increased demand, PyBer could increase fair prices during those in demand times.  This may make driving for PyBer a more appealling option for individuals in rural cities due to the potential for extra compensation on weekends.  This could increase the number of drivers overall in rural cities.  Alternatively, if there is an increase in profit for suburban and urban cities using this dynamic pricing, the company may be able to offer lower fairs overall to individuals in rural cities.  Having overall lower fairs may increase the demand for drivers and if the number of drivers increases then the availability of rides would increase.
